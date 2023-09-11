@@ -1,4 +1,3 @@
-### :wave: Hi there 
 <p>Tristan is a Systems Engineer with flair for Front-End UI/UX based in Aarhus Denmark</p>
 <p>Today Tristan co-owns and works at ServicePoint A/S, primarily focusing on developing and mainting cloud infrastructure at <a href="https://cloudservers.dk" target="_blank" rel="noopener">cloudservers.dk</a>.</p>
 <p>Building the right foundation to ongoing optimization and support. In short, he tries to make the web a better place.</p>
@@ -9,7 +8,6 @@
 <a href="/blog">Blog</a> and some of his work <a href="/#work">here</a>.</p>
 <br/ >
 
-### :rocket: Languages and Tools:
 
 #### Languages:
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
@@ -36,9 +34,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br/ >
 <br/ >
-<br/ >
 
-### :zap: Github Stats:
+#### :zap: Github Stats:
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=triss90&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triss90&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 
