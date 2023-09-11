@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-<!--
-**triss90/triss90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Tristan is a Systems Engineer with flair for Front-End UI/UX based in Aarhus Denmark</p>
+<p>Today Tristan co-owns and works at ServicePoint A/S, primarily focusing on developing and mainting cloud infrastructure at <a href="https://cloudservers.dk" target="_blank" rel="noopener">cloudservers.dk</a>.</p>
+<p>Building the right foundation to ongoing optimization and support. In short, he tries to make the web a better place.</p>
+<p>Tristan has worked with corporations, institutions and startups in a wide range of industries, spanning a number of European countries.</p>
+<p>See small bits of his experimental work on
+<a href="https://codepen.io/triss90/" target="_blank" rel="noopener">Codepen</a>, projects on
+<a href="https://github.com/triss90" target="_blank" rel="noopener">GitHub</a>, thoughts on his
+<a href="/blog">Blog</a> and some of his work <a href="/#work">here</a>.</p>
 
 
 <b>:zap: Github Stats: </b><br>
