@@ -1,4 +1,4 @@
-### Hi there 👋
+### :wave: Hi there 
 <p>Tristan is a Systems Engineer with flair for Front-End UI/UX based in Aarhus Denmark</p>
 <p>Today Tristan co-owns and works at ServicePoint A/S, primarily focusing on developing and mainting cloud infrastructure at <a href="https://cloudservers.dk" target="_blank" rel="noopener">cloudservers.dk</a>.</p>
 <p>Building the right foundation to ongoing optimization and support. In short, he tries to make the web a better place.</p>
@@ -7,6 +7,8 @@
 <a href="https://codepen.io/triss90/" target="_blank" rel="noopener">Codepen</a>, projects on
 <a href="https://github.com/triss90" target="_blank" rel="noopener">GitHub</a>, thoughts on his
 <a href="/blog">Blog</a> and some of his work <a href="/#work">here</a>.</p>
+<br/ >
+<br/ >
 
 ### :rocket: Languages and Tools:
 
@@ -33,6 +35,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<br/ >
 <br/ >
 
 ### :zap: Github Stats:
