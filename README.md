@@ -5,7 +5,7 @@
 <p>See small bits of his experimental work on
 <a href="https://codepen.io/triss90/" target="_blank" rel="noopener">Codepen</a>, projects on
 <a href="https://github.com/triss90" target="_blank" rel="noopener">GitHub</a>, thoughts on his
-<a href="/blog">Blog</a> and some of his work <a href="/#work">here</a>.</p>
+<a href="https://triss.dev/blog">Blog</a> and some of his work on his <a href="https://triss.dev">website</a>.</p>
 <br />
 
 ### Languages:
