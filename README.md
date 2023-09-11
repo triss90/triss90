@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details>	
- <summary><b>:zap: Github Stats</b></summary>
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=triss90&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical" />
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triss90&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
-</details>
+
+<b>:zap: Github Stats: </b>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=triss90&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triss90&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+
